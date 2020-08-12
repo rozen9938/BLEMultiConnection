@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BleManual</string>
+    <string name="ble_not_supported">BLE Cannot Use</string>
+</resources>
